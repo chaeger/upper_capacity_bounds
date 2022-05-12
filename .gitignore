@@ -1,0 +1,10 @@
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# OSX
+.DS_Store
+
+# VIM
+*.swp
+
