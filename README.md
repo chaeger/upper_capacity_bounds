@@ -1,6 +1,6 @@
 # Data-Driven Upper Bounds on Channel Capacity
 
-This repository contains the source code to reproduce the numerical results in our paper "Data-Driven Upper Bounds on Channel Capacity". The code is written in Python/TensorFlow using Jupyter notebooks and can be found in the folder `code`. 
+This repository contains the source code to reproduce the numerical results in our paper [Data-Driven Upper Bounds on Channel Capacity](https://arxiv.org/abs/2205.06471). The code is written in Python/TensorFlow using Jupyter notebooks and can be found in the folder `code`. 
 
 ## Example
 
@@ -16,5 +16,5 @@ Note that the optimization (both for the upper and lower bound) is performed sep
 
 Paper information: 
 
-* C. Häger, E. Agrell, "Data-Driven Upper Bounds on Channel Capacity", under review, 2022
+* C. Häger, E. Agrell, "[Data-Driven Upper Bounds on Channel Capacity](https://arxiv.org/abs/2205.06471)", under review, 2022
 
